@@ -1,0 +1,83 @@
+# Table of contents
+
+* [Fungsi pada Microsoft Excel](README.md)
+
+## fungsi logika
+
+* [Fungsi Logika](fungsi-logika-1/fungsi-logika.md)
+* [Fungsi AND](fungsi-logika-1/fungsi-and.md)
+* [Fungsi IF](fungsi-logika-1/fungsi-if.md)
+* [Fungsi FALSE](fungsi-logika-1/fungsi-false.md)
+* [Fungsi IFERROR](fungsi-logika-1/fungsi-iferror.md)
+* [Fungsi IFNA](fungsi-logika-1/fungsi-ifna.md)
+* [Fungsi IFS](fungsi-logika-1/fungsi-ifs.md)
+* [Fungsi NOT](fungsi-logika-1/fungsi-not.md)
+* [Fungsi OR](fungsi-logika-1/fungsi-or.md)
+* [Fungsi SWITCH](fungsi-logika-1/fungsi-switch.md)
+* [Fungsi TRUE](fungsi-logika-1/fungsi-true.md)
+* [Fungsi XOR](fungsi-logika-1/fungsi-xor.md)
+
+## Fungsi Tanggal dan Waktu
+
+* [Fungsi Tanggal dan Waktu](fungsi-tanggal-dan-waktu-1/fungsi-tanggal-dan-waktu.md)
+* [Fungsi DATE](fungsi-tanggal-dan-waktu-1/fungsi-date.md)
+* [Fungsi DATEDIF](fungsi-tanggal-dan-waktu-1/fungsi-datedif-1.md)
+* [Fungsi DATEVALUE](fungsi-tanggal-dan-waktu-1/fungsi-datevalue.md)
+* [Fungsi DAY](fungsi-tanggal-dan-waktu-1/fungsi-day.md)
+* [Fungsi DAYS](fungsi-tanggal-dan-waktu-1/fungsi-days.md)
+* [Fungsi DAYS360](fungsi-tanggal-dan-waktu-1/fungsi-days360.md)
+* [Fungsi EDATE](fungsi-tanggal-dan-waktu-1/fungsi-edate.md)
+* [Fungsi EOMONTH](fungsi-tanggal-dan-waktu-1/fungsi-eomonth.md)
+* [Fungsi HOUR](fungsi-tanggal-dan-waktu-1/fungsi-hour.md)
+* [Fungsi ISOWEEKNUM](fungsi-tanggal-dan-waktu-1/fungsi-isoweeknum.md)
+* [Fungsi MINUTE](fungsi-tanggal-dan-waktu-1/fungsi-minute.md)
+* [Fungsi MONTH](fungsi-tanggal-dan-waktu-1/fungsi-month.md)
+* [Fungsi NETWORKDAYS](fungsi-tanggal-dan-waktu-1/fungsi-networkdays.md)
+* [Fungsi NETWORKDAYS.INTL](fungsi-tanggal-dan-waktu-1/fungsi-networkdays.intl.md)
+* [Fungsi NOW](fungsi-tanggal-dan-waktu-1/fungsi-now.md)
+* [Fungsi SECOND](fungsi-tanggal-dan-waktu-1/fungsi-second.md)
+* [Fungsi TIME](fungsi-tanggal-dan-waktu-1/fungsi-time.md)
+* [Fungsi TIMEVALUE](fungsi-tanggal-dan-waktu-1/fungsi-timevalue.md)
+* [Fungsi TODAY](fungsi-tanggal-dan-waktu-1/fungsi-today.md)
+* [Fungsi WEEKDAY](fungsi-tanggal-dan-waktu-1/fungsi-weekday.md)
+* [Fungsi WEEKNUM](fungsi-tanggal-dan-waktu-1/fungsi-weeknum.md)
+* [Fungsi WORKDAY](fungsi-tanggal-dan-waktu-1/fungsi-workday.md)
+* [Fungsi WORKDAY.INTL](fungsi-tanggal-dan-waktu-1/fungsi-workday.intl.md)
+* [Fungsi YEAR](fungsi-tanggal-dan-waktu-1/fungsi-year.md)
+* [Fungsi YEARFRAC](fungsi-tanggal-dan-waktu-1/fungsi-yearfrac.md)
+
+## Fungsi Kubik
+
+* [Fungsi Kubik](fungsi-kubik/fungsi-kubik.md)
+* [Fungsi CUBEKPIMEMBER](fungsi-kubik/fungsi-cubekpimember.md)
+* [Fungsi CUBEMEMBER](fungsi-kubik/fungsi-cubemember.md)
+* [Fungsi CUBEMEMBERPROPERTY](fungsi-kubik/fungsi-cubememberproperty.md)
+* [Fungsi CUBERANKEDMEMBER](fungsi-kubik/fungsi-cuberankedmember.md)
+* [Fungsi CUBESET](fungsi-kubik/fungsi-cubeset.md)
+* [Fungsi CUBESETCOUNT](fungsi-kubik/fungsi-cubesetcount.md)
+* [Fungsi CUBEVALUE](fungsi-kubik/fungsi-cubevalue.md)
+
+## Fungsi Informasi
+
+* [Fungsi Informasi](fungsi-informasi/fungsi-informasi.md)
+* [Fungsi CELL](fungsi-informasi/fungsi-cell.md)
+* [Fungsi ERROR.TYPE](fungsi-informasi/fungsi-error.type.md)
+* [Fungsi INFO](fungsi-informasi/fungsi-info.md)
+* [Fungsi ISBLANK](fungsi-informasi/fungsi-isblank.md)
+* [Fungsi ISERR](fungsi-informasi/fungsi-iserr.md)
+* [Fungsi ISERROR](fungsi-informasi/fungsi-iserror.md)
+* [Fungsi ISEVEN](fungsi-informasi/fungsi-iseven.md)
+* [Fungsi ISFORMULA](fungsi-informasi/fungsi-isformula.md)
+* [Fungsi ISLOGICAL](fungsi-informasi/fungsi-islogical.md)
+* [Fungsi ISNA](fungsi-informasi/fungsi-isna.md)
+* [Fungsi ISNONTEXT](fungsi-informasi/fungsi-isnontext.md)
+* [Fungsi ISNUMBER](fungsi-informasi/fungsi-isnumber.md)
+* [Fungsi ISODD](fungsi-informasi/fungsi-isodd.md)
+* [Fungsi ISREF](fungsi-informasi/fungsi-isref.md)
+* [Fungsi ISTEXT](fungsi-informasi/fungsi-istext.md)
+* [Fungsi N](fungsi-informasi/fungsi-n.md)
+* [Fungsi NA](fungsi-informasi/fungsi-na.md)
+* [Fungsi SHEET](fungsi-informasi/fungsi-sheet.md)
+* [Fungsi SHEETS](fungsi-informasi/fungsi-sheets.md)
+* [Fungsi TYPE](fungsi-informasi/fungsi-type.md)
+
